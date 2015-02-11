@@ -1,0 +1,11 @@
+exclude: [dl]
+timezone: Europe/Paris
+lsi: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+#      layout: "default"
+      author: "Matthieu Caneill"
